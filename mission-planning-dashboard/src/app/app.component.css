@@ -1,4 +1,19 @@
 .box {
     display: flex;
     padding: 10px;
+    border-style: double;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightblue;
+    align-items: center;
+    justify-content: center;
+
+
  }
+
+ app-header{
+     color: purple;
+     text-align: center;
+
+ }
+
+
